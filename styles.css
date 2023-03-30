@@ -1,0 +1,61 @@
+body {
+    background-color: #DBF9FC;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+
+h2{
+    text-align: right;
+    color: blue;
+    margin: 5px;
+    padding: 5px;
+}
+
+h3{
+    text-align: right;
+    color: rgba(0, 0, 255, 0.438);
+}
+
+h4{
+    color: blue;
+    font-size: 20pt;
+}
+
+#one{
+    text-align: center;
+    color: red;
+    font-size: 20pt;
+}
+
+#two{
+    text-align: left;
+    color: red;
+}
+
+#three{
+    text-align: left;
+    color: red ;
+}
+
+#four {
+    text-align: left;
+    color: red;
+}
+
+.cart_item{
+    text-align: right;
+    color: red;
+}
+
+.money{
+    text-align:right;
+    color: red;
+}
+
+footer{
+    background-color: yellow;
+}
